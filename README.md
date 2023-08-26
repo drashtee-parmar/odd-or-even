@@ -47,3 +47,24 @@ This is an odd number.
 ### Example Output 2
 
 This is an even number.
+
+### Hint
+
+All even numbers can be divided by 2 with 0 remainder.
+Try some using the modulo with some odd numbers e.g.
+
+3 % 2
+
+5 % 2
+
+7 % 2
+
+Then try using the modulo with some even numbers e.g.
+
+4 % 2
+
+6 % 2
+
+8 % 2
+
+See what's in common each time.
